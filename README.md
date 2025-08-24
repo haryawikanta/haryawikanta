@@ -5,24 +5,67 @@
 
 ---
 
+<p align="center">
+  <img src="assets/Lebron James Wow GIF by NBA.gif" width="200"/>
+</p>
+
 ## 🚀 About Me
 - 🎓 Student at **SMK Harapan Bangsa** (Computer & Network Engineering)
 - 🌱 Currently learning **Cyber Security and Network Systems**
 - ⚡ Interested in exploring **Network Security** and **System Administration**
-- 🏀 Hobbies: Basketball, Futsal, and Gaming
+- 🏀 Hobbies: Basketball, Futsal, Musics, and Gaming
 - 🔭 Goal: Becoming an expert in **Network Security & Network System Administration (NSA)**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black />
-  <img src=https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white />
-  <img src=https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white />
-  <img src=https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white />
-  <img src=https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white />
-  <img src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white />
+  <b>💻 Operating Systems</b><br>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>🌐 Networking & Tools</b><br>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Putty-009900?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>⚙️ Development & Others</b><br>
+</p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node_RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ThingSpeak-004F9F?style=for-the-badge&logo=thingspeak&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>🎬Editing Tools</b><br>
+</p>
+
+<p align="center">
+<img src=https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white/> 
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
 
 ---
 
