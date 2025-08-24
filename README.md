@@ -5,9 +5,8 @@
 
   ---
 
-<table>
-<tr>
-  <td style="vertical-align: top; padding-right: 20px;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="max-width: 65%;">
     <h2>🚀 About Me</h2>
     <ul>
       <li>🎓 Student at <strong>SMK Harapan Bangsa</strong> (Computer & Network Engineering)</li>
@@ -16,12 +15,11 @@
       <li>🏀 Hobbies: Basketball, Futsal, Music, and Gaming</li>
       <li>🔭 Goal: Becoming an expert in <strong>Network Security & Network System Administration</strong></li>
     </ul>
-  </td>
-  <td style="vertical-align: top;">
+  </div>
+  <div style="margin-left: 20px;">
     <img src="assets/Lebron James Wow GIF by NBA.gif" width="150" />
-  </td>
-</tr>
-</table>
+  </div>
+</div>
 
 
   ---
