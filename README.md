@@ -5,16 +5,20 @@
 
   ---
 
-<div style="overflow: hidden; position: relative;">
-  <img src="assets/Lebron James Wow GIF by NBA.gif" width="150" style="float: right; margin-left: 20px; margin-top: 40px;"/>
-
-## 🚀 About Me
-- 🎓 Student at **SMK Harapan Bangsa** (Computer & Network Engineering)
-- 🌱 Currently learning **Cyber Security and Network Systems**
-- ⚡ Interested in exploring **Network Security** and **System Administration**
-- 🏀 Hobbies: Basketball, Futsal, Musics, and Gaming
-- 🔭 Goal: Becoming an expert in **Network Security & Network System Administration (NSA)**
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div>
+    <h2>🚀 About Me</h2>
+    <ul>
+      <li>🎓 Student at <strong>SMK Harapan Bangsa</strong> (Computer & Network Engineering)</li>
+      <li>🌱 Currently learning <strong>Cyber Security and Network Systems</strong></li>
+      <li>⚡ Interested in exploring <strong>Network Security</strong> and <strong>System Administration</strong></li>
+      <li>🏀 Hobbies: Basketball, Futsal, Music, and Gaming</li>
+      <li>🔭 Goal: Becoming an expert in <strong>Network Security & Network System Administration</strong></li>
+    </ul>
+  </div>
+  <img src="assets/Lebron James Wow GIF by NBA.gif" width="150" style="border-radius: 10px;" />
 </div>
+
 
   ---
 
