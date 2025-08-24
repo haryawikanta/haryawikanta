@@ -5,20 +5,24 @@
 
   ---
 
-<div style="overflow: hidden; position: relative;">
-  <img src="assets/Lebron James Wow GIF by NBA.gif" 
-       width="150" 
-       style="float: right; margin-left: 20px; margin-bottom: 10px;" />
+<table>
+<tr>
+  <td>
+    <h2>🚀 About Me</h2>
+    <ul>
+      <li>🎓 Student at <strong>SMK Harapan Bangsa</strong> (Computer & Network Engineering)</li>
+      <li>🌱 Currently learning <strong>Cyber Security and Network Systems</strong></li>
+      <li>⚡ Interested in exploring <strong>Network Security</strong> and <strong>System Administration</strong></li>
+      <li>🏀 Hobbies: Basketball, Futsal, Music, and Gaming</li>
+      <li>🔭 Goal: Becoming an expert in <strong>Network Security & Network System Administration</strong></li>
+    </ul>
+  </td>
+  <td>
+    <img src="assets/Lebron James Wow GIF by NBA.gif" width="150" />
+  </td>
+</tr>
+</table>
 
-  <h2>🚀 About Me</h2>
-  <ul>
-    <li>🎓 Student at <strong>SMK Harapan Bangsa</strong> (Computer & Network Engineering)</li>
-    <li>🌱 Currently learning <strong>Cyber Security and Network Systems</strong></li>
-    <li>⚡ Interested in exploring <strong>Network Security</strong> and <strong>System Administration</strong></li>
-    <li>🏀 Hobbies: Basketball, Futsal, Music, and Gaming</li>
-    <li>🔭 Goal: Becoming an expert in <strong>Network Security & Network System Administration</strong></li>
-  </ul>
-</div>
 
   ---
 
